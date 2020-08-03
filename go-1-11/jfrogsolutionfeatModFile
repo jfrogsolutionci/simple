@@ -1,0 +1,3 @@
+module github.com/jfrogsolutionfeat/simple
+
+require github.com/jfrogsolutionfeat/dog v1.0.0 // indirect
